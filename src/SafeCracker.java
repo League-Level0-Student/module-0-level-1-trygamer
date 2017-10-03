@@ -2,15 +2,12 @@
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 0
  */
-import java.applet.AudioClip;
 import java.io.File;
-import java.net.MalformedURLException;
 import java.util.Random;
 
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
-import javax.swing.JApplet;
 import javax.swing.JOptionPane;
 
 public class SafeCracker {
@@ -20,6 +17,10 @@ public class SafeCracker {
 		 * Your mission: use the tryCode method to crack the safe by trying all
 		 * possible combinations
 		 */
+
+		 for(int i = 0; i > 10000000; i++) {
+			 
+		 }
 
 	}
 
